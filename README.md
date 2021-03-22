@@ -1,18 +1,5 @@
 # <span style="text-align: center; display: block"> Y-LineageTracker Manual</span>
 
-<li>[1 Introduction](#1-introduction)  
-<li>[2 Dependencies and Installation](#2-dependencies-and-installation)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.1 Dependencies](#21-dependencies)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2 Installation](#22-installation)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.3 Testing](#23-testing)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.4 Usage](#24-usage)  
-<li>[3 Commands and Options](#3-commands-and-options)  
-<li>[4 Examples](#4-examples)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.1 Input Files](#41-input-files)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.2 Example Usages and Output Files](#42-example-usages-and-output-files)  
-<li>[5 Contacts](#5-contacts)  
-<li>[6 References](#6-references)  
-
 ## <a name="1-introduction"></a>1 Introduction
 <span style="text-align: justify; display: block"> 
 Due to haploid and male-specific, the human Y-chromosome plays a crucial role to understand human evolution and genetics. The single-nucleotide polymorphisms (SNPs) and short tandem repeats (STRs) on the NRY are always regarded as significant markers to trace direct paternal ancestral lines and reflect the peculiarities of past male behaviors. In particular, with the increasing popularity of next-generation sequencing (NGS) platforms in recent years, the NRY has provided researchers increasingly informative markers to track human paternal lineages.  
