@@ -15,7 +15,10 @@ Y-LineageTracker will make use of Y-chromosome sequencing data to a great extent
 5. Estimate divergence time of NRY haplogroups.
 6. Estimate TMRCA of Y-STR haplotypes.  
 
-Y-LineageTracker is written in python3, it can be used by command line under Windows, Linux and MacOS platform. For details on usages and examples, see below.
+Y-LineageTracker is a command-line tool written in python3, it has been published on https://doi.org/10.1186/s12859-021-04057-z:
+Chen, H., Lu, Y., Lu, D. et al. Y-LineageTracker: a high-throughput analysis framework for Y-chromosomal next-generation sequencing data. BMC Bioinformatics 22, 114 (2021). https://doi.org/10.1186/s12859-021-04057-z
+
+Please cite us if you have used Y-LineageTrakcer for analyses. For details on usages and examples, see below.
 
 </span>
 
